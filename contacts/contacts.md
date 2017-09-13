@@ -1,7 +1,7 @@
 title="Контакты"  
 tags=""  
 cat=""  
-thumb="team20.jpg"  
+thumb=""  
 lead=""  
 
 +++
