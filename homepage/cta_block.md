@@ -3,7 +3,7 @@ tags="Новости, петиция, Дубровино"
 cat="cta_block"  
 thumb=""  
 lead="Подпишите петицию"  
-url="/petition/"
+url="/howtohelp/"
 
 +++  
 
