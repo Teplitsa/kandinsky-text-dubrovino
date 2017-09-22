@@ -3,6 +3,7 @@ tags=""
 cat=""  
 thumb=""  
 lead=""
+slug="gethelp"
 
 +++
 
