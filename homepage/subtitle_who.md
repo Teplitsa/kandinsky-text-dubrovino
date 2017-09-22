@@ -3,7 +3,7 @@ tags="активисты, Дубровино, Двоегорск"
 cat="subtitle_who"  
 thumb=""  
 lead="Узнать о нашей работе"   
-url="/about"
+url="/about/"
 
 +++
 

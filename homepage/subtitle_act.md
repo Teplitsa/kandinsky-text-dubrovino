@@ -3,7 +3,7 @@ tags="активисты, Дубровино, парк"
 cat="subtitle_act"  
 thumb=""  
 lead="Начать защищать"  
-url="/howtohelp"
+url="/howtohelp/"
 
 +++  
 

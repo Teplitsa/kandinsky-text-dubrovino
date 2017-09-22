@@ -1,7 +1,7 @@
 title="Cловарь градозащитника"  
 tags=""  
 cat=""  
-thumb="architect5.jpg"  
+thumb="expert-architect.jpg"  
 lead="Здесь мы собираем все градостроительные термины и описываем специфику документов"
 
 +++  
